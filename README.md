@@ -10,6 +10,8 @@ Purpose is to create a telegram bot that summarizes posts from group chat member
 
 -understand youtube videos
 
+-ignore posts made by the bot when summarizing and counting posts
+
 -limit length of response or allow it to post more than once to accommodate longer summaries
 
 -change personality while retaining chat history /mood
