@@ -4,16 +4,22 @@ Purpose is to create a telegram bot that summarizes posts from group chat member
 
 **WISHLIST**
 
--ability to understand images
+-understand images
 
--ability to understand voice messages
+-understand voice messages
+
+-understand youtube videos
 
 -limit length of response or allow it to post more than once to accommodate longer summaries
 
--ability to change personality while retaining chat history /mood
+-change personality while retaining chat history /mood
 
--ability to open a link and summarize article /tldr
+-open a link and summarize article /tldr
 
--ability to translate articles to English /translate
+-translate articles to English /translate
 
--ability to generate a short bio about any public person and give a short summary of any subject /info
+-generate a short bio about any public person and give a short summary of any subject /info
+
+-help menu /help
+
+-adjust the default behavior of /summarize when user does not define the number of posts
